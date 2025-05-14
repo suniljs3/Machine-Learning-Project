@@ -1,7 +1,6 @@
 # Machine-Learning-Project
 For each dataset complete the following tasks: Data Cleaning, Summarization, visualisation, Co-Rel Analysis, Hypothesis testing and then apply the appropriate Machine Learning techniques.
 
-
 Dataset: IBM HR Analytics Employee Attrition & Performance 
 
 Dataset link : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
