@@ -38,7 +38,7 @@ WorkLifeBalance
 
 TotalWorkingYears
 
-✅ 2. Is job satisfaction significantly different between employees who leave and those who stay?
+2. Is job satisfaction significantly different between employees who leave and those who stay?
 Approach:
 
 Use a t-test or Mann-Whitney U test to compare JobSatisfaction scores between:
@@ -49,7 +49,7 @@ Visualization:
 
 Boxplot or violin plot of JobSatisfaction grouped by Attrition.
 
-✅ 3. Can we predict attrition using job role, salary, and work-life balance?
+3. Can we predict attrition using job role, salary, and work-life balance?
 Approach:
 
 Build a classification model (e.g., Logistic Regression, Random Forest, XGBoost) using:
@@ -66,7 +66,7 @@ Accuracy, Precision, Recall, F1-score
 
 ROC-AUC Curve
 
-✅ 4. Do longer working hours increase attrition risk?
+4. Do longer working hours increase attrition risk?
 Approach:
 
 Analyze Attrition vs AverageDailyHours or OverTime (use OverTime and maybe compute hours from DailyRate if needed).
@@ -77,7 +77,7 @@ Visualization:
 
 Histograms or boxplots of TotalWorkingYears, OverTime, or any proxy for working hours vs. Attrition.
 
-✅ 5. Which features are most important for predicting attrition?
+5. Which features are most important for predicting attrition?
 Approach:
 
 Train tree-based models (e.g., Random Forest, XGBoost).
